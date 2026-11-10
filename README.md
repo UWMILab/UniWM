@@ -6,11 +6,11 @@
 <p align="center">
   <a>Yifei Dong<sup>1,*</sup>,</a>
   <a>Fengyi Wu<sup>1,*</sup>,</a>
-  <a>Guangyu Chen<sup>1,*</sup>,</a>
+  <a>Guangyu Chen<sup>1</sup>,</a>
   <a>Lingdong Kong<sup>2</sup>,</a>
-  <a>Xu Zhu<sup>1</sup>,</a>
   <a>Qiyu Hu<sup>1</sup>,</a>
   <a>Yuxuan Zhou<sup>1</sup>,</a>
+  <a>Xu Zhu<sup>1</sup>,</a>
   <a>Jingdong Sun<sup>3</sup>,</a>
   <a>Jun-Yan He<sup>1</sup>,</a>
   <a>Qi Dai<sup>4</sup>,</a>
